@@ -12,3 +12,4 @@ E:\Patrones de Software\SOLIDPrinciples\SRP_Single_Responsability_Principle\obj\
 E:\Patrones de Software\SOLIDPrinciples\SRP_Single_Responsability_Principle\obj\Debug\net8.0\SRP_Single_Responsability_Principle.pdb
 E:\Patrones de Software\SOLIDPrinciples\SRP_Single_Responsability_Principle\obj\Debug\net8.0\SRP_Single_Responsability_Principle.genruntimeconfig.cache
 E:\Patrones de Software\SOLIDPrinciples\SRP_Single_Responsability_Principle\obj\Debug\net8.0\ref\SRP_Single_Responsability_Principle.dll
+E:\Patrones de Software\SOLIDPrinciples\SRP_Single_Responsability_Principle\obj\Debug\net8.0\SRP_Single_Responsability_Principle.sourcelink.json
