@@ -2,7 +2,7 @@
 {
     /// <summary>
     /// EJEMPLO INCORRECTO: SRP
-    /// El siguiente proyecto la clase User tienes multiples responsabilidades.
+    /// El siguiente proyecto la clase User tiene multiples responsabilidades.
     /// </summary>
     
     public class User
