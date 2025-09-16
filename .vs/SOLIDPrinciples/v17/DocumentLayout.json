@@ -1,12 +1,156 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\SOLIDPrinciples\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\Patrones de Software\\SOLIDPrinciples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}|OCP_Open_Closed_Principle_Correct\\OCP_Open_Closed_Principle_Correct.csproj|e:\\patrones de software\\solidprinciples\\ocp_open_closed_principle_correct\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}|OCP_Open_Closed_Principle_Correct\\OCP_Open_Closed_Principle_Correct.csproj|solutionrelative:ocp_open_closed_principle_correct\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}|OCP_Open_Closed_Principle_Correct\\OCP_Open_Closed_Principle_Correct.csproj|e:\\patrones de software\\solidprinciples\\ocp_open_closed_principle_correct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}|OCP_Open_Closed_Principle_Correct\\OCP_Open_Closed_Principle_Correct.csproj|solutionrelative:ocp_open_closed_principle_correct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}|OCP_Open_Closed_Principle_Correct\\OCP_Open_Closed_Principle_Correct.csproj|e:\\patrones de software\\solidprinciples\\ocp_open_closed_principle_correct\\vipcustomerdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}|OCP_Open_Closed_Principle_Correct\\OCP_Open_Closed_Principle_Correct.csproj|solutionrelative:ocp_open_closed_principle_correct\\vipcustomerdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}|OCP_Open_Closed_Principle_Correct\\OCP_Open_Closed_Principle_Correct.csproj|e:\\patrones de software\\solidprinciples\\ocp_open_closed_principle_correct\\regularcustomerdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}|OCP_Open_Closed_Principle_Correct\\OCP_Open_Closed_Principle_Correct.csproj|solutionrelative:ocp_open_closed_principle_correct\\regularcustomerdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}|OCP_Open_Closed_Principle_Correct\\OCP_Open_Closed_Principle_Correct.csproj|e:\\patrones de software\\solidprinciples\\ocp_open_closed_principle_correct\\premiumcustomerdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}|OCP_Open_Closed_Principle_Correct\\OCP_Open_Closed_Principle_Correct.csproj|solutionrelative:ocp_open_closed_principle_correct\\premiumcustomerdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}|OCP_Open_Closed_Principle_Correct\\OCP_Open_Closed_Principle_Correct.csproj|e:\\patrones de software\\solidprinciples\\ocp_open_closed_principle_correct\\idiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}|OCP_Open_Closed_Principle_Correct\\OCP_Open_Closed_Principle_Correct.csproj|solutionrelative:ocp_open_closed_principle_correct\\idiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}|OCP_Open_Closed_Principle_Correct\\OCP_Open_Closed_Principle_Correct.csproj|e:\\patrones de software\\solidprinciples\\ocp_open_closed_principle_correct\\discountcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}|OCP_Open_Closed_Principle_Correct\\OCP_Open_Closed_Principle_Correct.csproj|solutionrelative:ocp_open_closed_principle_correct\\discountcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}|OCP_Open_Closed_Principle_Correct\\OCP_Open_Closed_Principle_Correct.csproj|e:\\patrones de software\\solidprinciples\\ocp_open_closed_principle_correct\\customertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}|OCP_Open_Closed_Principle_Correct\\OCP_Open_Closed_Principle_Correct.csproj|solutionrelative:ocp_open_closed_principle_correct\\customertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\OCP_Open_Closed_Principle_Correct\\Program.cs",
+              "RelativeDocumentMoniker": "OCP_Open_Closed_Principle_Correct\\Program.cs",
+              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\OCP_Open_Closed_Principle_Correct\\Program.cs",
+              "RelativeToolTip": "OCP_Open_Closed_Principle_Correct\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:12:38.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VipCustomerDiscount.cs",
+              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\OCP_Open_Closed_Principle_Correct\\VipCustomerDiscount.cs",
+              "RelativeDocumentMoniker": "OCP_Open_Closed_Principle_Correct\\VipCustomerDiscount.cs",
+              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\OCP_Open_Closed_Principle_Correct\\VipCustomerDiscount.cs",
+              "RelativeToolTip": "OCP_Open_Closed_Principle_Correct\\VipCustomerDiscount.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:12:24.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegularCustomerDiscount.cs",
+              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\OCP_Open_Closed_Principle_Correct\\RegularCustomerDiscount.cs",
+              "RelativeDocumentMoniker": "OCP_Open_Closed_Principle_Correct\\RegularCustomerDiscount.cs",
+              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\OCP_Open_Closed_Principle_Correct\\RegularCustomerDiscount.cs",
+              "RelativeToolTip": "OCP_Open_Closed_Principle_Correct\\RegularCustomerDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:12:13.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PremiumCustomerDiscount.cs",
+              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\OCP_Open_Closed_Principle_Correct\\PremiumCustomerDiscount.cs",
+              "RelativeDocumentMoniker": "OCP_Open_Closed_Principle_Correct\\PremiumCustomerDiscount.cs",
+              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\OCP_Open_Closed_Principle_Correct\\PremiumCustomerDiscount.cs",
+              "RelativeToolTip": "OCP_Open_Closed_Principle_Correct\\PremiumCustomerDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:11:42.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDiscountStrategy.cs",
+              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\OCP_Open_Closed_Principle_Correct\\IDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "OCP_Open_Closed_Principle_Correct\\IDiscountStrategy.cs",
+              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\OCP_Open_Closed_Principle_Correct\\IDiscountStrategy.cs",
+              "RelativeToolTip": "OCP_Open_Closed_Principle_Correct\\IDiscountStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:11:10.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiscountCalculator.cs",
+              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\OCP_Open_Closed_Principle_Correct\\DiscountCalculator.cs",
+              "RelativeDocumentMoniker": "OCP_Open_Closed_Principle_Correct\\DiscountCalculator.cs",
+              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\OCP_Open_Closed_Principle_Correct\\DiscountCalculator.cs",
+              "RelativeToolTip": "OCP_Open_Closed_Principle_Correct\\DiscountCalculator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:10:43.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerType.cs",
+              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\OCP_Open_Closed_Principle_Correct\\CustomerType.cs",
+              "RelativeDocumentMoniker": "OCP_Open_Closed_Principle_Correct\\CustomerType.cs",
+              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\OCP_Open_Closed_Principle_Correct\\CustomerType.cs",
+              "RelativeToolTip": "OCP_Open_Closed_Principle_Correct\\CustomerType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:10:40.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\OCP_Open_Closed_Principle_Correct\\Customer.cs",
+              "RelativeDocumentMoniker": "OCP_Open_Closed_Principle_Correct\\Customer.cs",
+              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\OCP_Open_Closed_Principle_Correct\\Customer.cs",
+              "RelativeToolTip": "OCP_Open_Closed_Principle_Correct\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T18:10:35.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

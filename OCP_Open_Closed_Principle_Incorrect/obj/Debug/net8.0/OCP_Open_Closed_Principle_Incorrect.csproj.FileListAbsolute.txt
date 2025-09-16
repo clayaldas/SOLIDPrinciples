@@ -13,3 +13,18 @@ D:\Repositorios\Organizations\FISEI-Patrones-de-Software\SOLIDPrinciples\OCP_Ope
 D:\Repositorios\Organizations\FISEI-Patrones-de-Software\SOLIDPrinciples\OCP_Open_Closed_Principle_Incorrect\obj\Debug\net8.0\OCP_Open_Closed_Principle_Incorrect.pdb
 D:\Repositorios\Organizations\FISEI-Patrones-de-Software\SOLIDPrinciples\OCP_Open_Closed_Principle_Incorrect\obj\Debug\net8.0\OCP_Open_Closed_Principle_Incorrect.genruntimeconfig.cache
 D:\Repositorios\Organizations\FISEI-Patrones-de-Software\SOLIDPrinciples\OCP_Open_Closed_Principle_Incorrect\obj\Debug\net8.0\ref\OCP_Open_Closed_Principle_Incorrect.dll
+E:\Patrones de Software\SOLIDPrinciples\OCP_Open_Closed_Principle_Incorrect\bin\Debug\net8.0\OCP_Open_Closed_Principle_Incorrect.exe
+E:\Patrones de Software\SOLIDPrinciples\OCP_Open_Closed_Principle_Incorrect\bin\Debug\net8.0\OCP_Open_Closed_Principle_Incorrect.deps.json
+E:\Patrones de Software\SOLIDPrinciples\OCP_Open_Closed_Principle_Incorrect\bin\Debug\net8.0\OCP_Open_Closed_Principle_Incorrect.runtimeconfig.json
+E:\Patrones de Software\SOLIDPrinciples\OCP_Open_Closed_Principle_Incorrect\bin\Debug\net8.0\OCP_Open_Closed_Principle_Incorrect.dll
+E:\Patrones de Software\SOLIDPrinciples\OCP_Open_Closed_Principle_Incorrect\bin\Debug\net8.0\OCP_Open_Closed_Principle_Incorrect.pdb
+E:\Patrones de Software\SOLIDPrinciples\OCP_Open_Closed_Principle_Incorrect\obj\Debug\net8.0\OCP_Open_Closed_Principle_Incorrect.GeneratedMSBuildEditorConfig.editorconfig
+E:\Patrones de Software\SOLIDPrinciples\OCP_Open_Closed_Principle_Incorrect\obj\Debug\net8.0\OCP_Open_Closed_Principle_Incorrect.AssemblyInfoInputs.cache
+E:\Patrones de Software\SOLIDPrinciples\OCP_Open_Closed_Principle_Incorrect\obj\Debug\net8.0\OCP_Open_Closed_Principle_Incorrect.AssemblyInfo.cs
+E:\Patrones de Software\SOLIDPrinciples\OCP_Open_Closed_Principle_Incorrect\obj\Debug\net8.0\OCP_Open_Closed_Principle_Incorrect.csproj.CoreCompileInputs.cache
+E:\Patrones de Software\SOLIDPrinciples\OCP_Open_Closed_Principle_Incorrect\obj\Debug\net8.0\OCP_Open_Closed_Principle_Incorrect.sourcelink.json
+E:\Patrones de Software\SOLIDPrinciples\OCP_Open_Closed_Principle_Incorrect\obj\Debug\net8.0\OCP_Open_Closed_Principle_Incorrect.dll
+E:\Patrones de Software\SOLIDPrinciples\OCP_Open_Closed_Principle_Incorrect\obj\Debug\net8.0\refint\OCP_Open_Closed_Principle_Incorrect.dll
+E:\Patrones de Software\SOLIDPrinciples\OCP_Open_Closed_Principle_Incorrect\obj\Debug\net8.0\OCP_Open_Closed_Principle_Incorrect.pdb
+E:\Patrones de Software\SOLIDPrinciples\OCP_Open_Closed_Principle_Incorrect\obj\Debug\net8.0\OCP_Open_Closed_Principle_Incorrect.genruntimeconfig.cache
+E:\Patrones de Software\SOLIDPrinciples\OCP_Open_Closed_Principle_Incorrect\obj\Debug\net8.0\ref\OCP_Open_Closed_Principle_Incorrect.dll
