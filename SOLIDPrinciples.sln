@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP_Single_Responsability_P
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.SRP Single Responsability Principle", "1.SRP Single Responsability Principle", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.OCP Open Closed Principle", "2.OCP Open Closed Principle", "{AA35757D-02B3-49BD-A48E-B744554B1F3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP_Open_Closed_Principle_Incorrect", "OCP_Open_Closed_Principle_Incorrect\OCP_Open_Closed_Principle_Incorrect.csproj", "{E610BB1E-15A2-43A4-A194-65A38FF831C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +27,10 @@ Global
 		{A856A526-0505-4443-AA62-5A20FA0B7F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A856A526-0505-4443-AA62-5A20FA0B7F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A856A526-0505-4443-AA62-5A20FA0B7F73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E610BB1E-15A2-43A4-A194-65A38FF831C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E610BB1E-15A2-43A4-A194-65A38FF831C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E610BB1E-15A2-43A4-A194-65A38FF831C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E610BB1E-15A2-43A4-A194-65A38FF831C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{931EEEFA-D36B-4355-AEFE-10DD3ABE6C7B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{A856A526-0505-4443-AA62-5A20FA0B7F73} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{E610BB1E-15A2-43A4-A194-65A38FF831C0} = {AA35757D-02B3-49BD-A48E-B744554B1F3E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {119D3C37-B691-4635-8C40-28543AA39712}
