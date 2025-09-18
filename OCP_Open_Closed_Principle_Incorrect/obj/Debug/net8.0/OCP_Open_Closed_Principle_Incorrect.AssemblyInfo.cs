@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OCP_Open_Closed_Principle_Incorrect")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3191980e167985722ea24304cc41878207340da8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b962453b726504e7a35e1be8767197340746dd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("OCP_Open_Closed_Principle_Incorrect")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OCP_Open_Closed_Principle_Incorrect")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

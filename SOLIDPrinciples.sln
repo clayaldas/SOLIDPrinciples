@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP_Open_Closed_Principle_I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP_Open_Closed_Principle_Correct", "OCP_Open_Closed_Principle_Correct\OCP_Open_Closed_Principle_Correct.csproj", "{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.LSP Liskov Substitution Principle", "3.LSP Liskov Substitution Principle", "{369CB01D-A1A7-72D2-AABC-3F0945D148A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP_Liskov_Substitution_Principle_Incorrect", "LSP_Liskov_Substitution_Principle_Incorrect\LSP_Liskov_Substitution_Principle_Incorrect.csproj", "{944E4293-7418-4AEC-A3AC-E485FE02CB0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +41,10 @@ Global
 		{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944E4293-7418-4AEC-A3AC-E485FE02CB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944E4293-7418-4AEC-A3AC-E485FE02CB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944E4293-7418-4AEC-A3AC-E485FE02CB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944E4293-7418-4AEC-A3AC-E485FE02CB0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +54,7 @@ Global
 		{A856A526-0505-4443-AA62-5A20FA0B7F73} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{E610BB1E-15A2-43A4-A194-65A38FF831C0} = {AA35757D-02B3-49BD-A48E-B744554B1F3E}
 		{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE} = {AA35757D-02B3-49BD-A48E-B744554B1F3E}
+		{944E4293-7418-4AEC-A3AC-E485FE02CB0C} = {369CB01D-A1A7-72D2-AABC-3F0945D148A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {119D3C37-B691-4635-8C40-28543AA39712}
