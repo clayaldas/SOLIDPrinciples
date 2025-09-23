@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sTwuJtGhXwc=",
+  "dgSpecHash": "aw80R5l/4hc=",
   "success": true,
-  "projectFilePath": "D:\\Repositorios\\Ejercicios_Clases\\Patrones de Software\\Respaldo\\SOLIDPrinciples\\LSP_Liskov_Substitution_Principle_Incorrect\\LSP_Liskov_Substitution_Principle_Incorrect.csproj",
+  "projectFilePath": "D:\\Repositorios\\Ejercicios_Clases\\Patrones de Software\\SOLIDPrinciples\\LSP_Liskov_Substitution_Principle_Incorrect\\LSP_Liskov_Substitution_Principle_Incorrect.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

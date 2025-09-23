@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Repositorios\\Ejercicios_Clases\\Patrones de Software\\Respaldo\\SOLIDPrinciples\\",
+  "WorkspaceRootPath": "D:\\Repositorios\\Ejercicios_Clases\\Patrones de Software\\SOLIDPrinciples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{944E4293-7418-4AEC-A3AC-E485FE02CB0C}|LSP_Liskov_Substitution_Principle_Incorrect\\LSP_Liskov_Substitution_Principle_Incorrect.csproj|d:\\repositorios\\ejercicios_clases\\patrones de software\\respaldo\\solidprinciples\\lsp_liskov_substitution_principle_incorrect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9597C776-07EB-41A3-9BB0-4923F7849BB4}|ISP_Interface_Segregation_Principle\\ISP_Interface_Segregation_Principle.csproj|d:\\repositorios\\ejercicios_clases\\patrones de software\\solidprinciples\\isp_interface_segregation_principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9597C776-07EB-41A3-9BB0-4923F7849BB4}|ISP_Interface_Segregation_Principle\\ISP_Interface_Segregation_Principle.csproj|solutionrelative:isp_interface_segregation_principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944E4293-7418-4AEC-A3AC-E485FE02CB0C}|LSP_Liskov_Substitution_Principle_Incorrect\\LSP_Liskov_Substitution_Principle_Incorrect.csproj|d:\\repositorios\\ejercicios_clases\\patrones de software\\solidprinciples\\lsp_liskov_substitution_principle_incorrect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{944E4293-7418-4AEC-A3AC-E485FE02CB0C}|LSP_Liskov_Substitution_Principle_Incorrect\\LSP_Liskov_Substitution_Principle_Incorrect.csproj|solutionrelative:lsp_liskov_substitution_principle_incorrect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repositorios\\Ejercicios_Clases\\Patrones de Software\\SOLIDPrinciples\\LSP_Liskov_Substitution_Principle_Incorrect\\Program.cs",
+              "RelativeDocumentMoniker": "LSP_Liskov_Substitution_Principle_Incorrect\\Program.cs",
+              "ToolTip": "D:\\Repositorios\\Ejercicios_Clases\\Patrones de Software\\SOLIDPrinciples\\LSP_Liskov_Substitution_Principle_Incorrect\\Program.cs",
+              "RelativeToolTip": "LSP_Liskov_Substitution_Principle_Incorrect\\Program.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T14:11:47.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repositorios\\Ejercicios_Clases\\Patrones de Software\\Respaldo\\SOLIDPrinciples\\LSP_Liskov_Substitution_Principle_Incorrect\\Program.cs",
-              "RelativeDocumentMoniker": "LSP_Liskov_Substitution_Principle_Incorrect\\Program.cs",
-              "ToolTip": "D:\\Repositorios\\Ejercicios_Clases\\Patrones de Software\\Respaldo\\SOLIDPrinciples\\LSP_Liskov_Substitution_Principle_Incorrect\\Program.cs",
-              "RelativeToolTip": "LSP_Liskov_Substitution_Principle_Incorrect\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Repositorios\\Ejercicios_Clases\\Patrones de Software\\SOLIDPrinciples\\ISP_Interface_Segregation_Principle\\Program.cs",
+              "RelativeDocumentMoniker": "ISP_Interface_Segregation_Principle\\Program.cs",
+              "ToolTip": "D:\\Repositorios\\Ejercicios_Clases\\Patrones de Software\\SOLIDPrinciples\\ISP_Interface_Segregation_Principle\\Program.cs",
+              "RelativeToolTip": "ISP_Interface_Segregation_Principle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T15:42:51.51Z",
+              "WhenOpened": "2025-09-23T14:09:22.658Z",
               "EditorCaption": ""
             }
           ]

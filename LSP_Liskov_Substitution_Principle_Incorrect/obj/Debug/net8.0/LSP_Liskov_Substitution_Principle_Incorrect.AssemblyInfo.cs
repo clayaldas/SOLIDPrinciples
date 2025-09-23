@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LSP_Liskov_Substitution_Principle_Incorrect")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d5f82ecd1f5f72f0cabd8ec3071efec6a2590c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+778cb89d041d95639febd7055ccb06eb77ef76d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("LSP_Liskov_Substitution_Principle_Incorrect")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LSP_Liskov_Substitution_Principle_Incorrect")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
