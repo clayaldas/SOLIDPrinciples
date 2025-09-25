@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LMQDHSoreJE=",
+  "dgSpecHash": "4n1ntYXNdAE=",
   "success": true,
-  "projectFilePath": "E:\\Patrones de Software\\Respaldo\\SOLIDPrinciples\\SRP_Single_Responsability_Principle\\SRP_Single_Responsability_Principle.csproj",
+  "projectFilePath": "E:\\Patrones de Software\\SOLIDPrinciples\\SRP_Single_Responsability_Principle\\SRP_Single_Responsability_Principle.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

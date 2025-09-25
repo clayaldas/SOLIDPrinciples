@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Patrones de Software\\Respaldo\\SOLIDPrinciples\\LSP_Liskov_Substitution_Principle_Incorrect\\LSP_Liskov_Substitution_Principle_Incorrect.csproj",
+      "projectUniqueName": "E:\\Patrones de Software\\SOLIDPrinciples\\LSP_Liskov_Substitution_Principle_Incorrect\\LSP_Liskov_Substitution_Principle_Incorrect.csproj",
       "projectName": "LSP_Liskov_Substitution_Principle_Incorrect",
-      "projectPath": "E:\\Patrones de Software\\Respaldo\\SOLIDPrinciples\\LSP_Liskov_Substitution_Principle_Incorrect\\LSP_Liskov_Substitution_Principle_Incorrect.csproj",
+      "projectPath": "E:\\Patrones de Software\\SOLIDPrinciples\\LSP_Liskov_Substitution_Principle_Incorrect\\LSP_Liskov_Substitution_Principle_Incorrect.csproj",
       "packagesPath": "C:\\Users\\Docente\\.nuget\\packages\\",
-      "outputPath": "E:\\Patrones de Software\\Respaldo\\SOLIDPrinciples\\LSP_Liskov_Substitution_Principle_Incorrect\\obj\\",
+      "outputPath": "E:\\Patrones de Software\\SOLIDPrinciples\\LSP_Liskov_Substitution_Principle_Incorrect\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

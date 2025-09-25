@@ -14,6 +14,7 @@ public class EmailService
 // que modificar la clase de detalle "NotificationManager", lo que rompe DIP.
 public class NotificationManager
 {
+    // ESTO GENARA UN ALTO ACOMPLAMIENTO
   private EmailService _emailService = new EmailService();
 
   public void Send(string message)

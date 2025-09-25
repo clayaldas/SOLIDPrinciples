@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP_Dependency_Inversion_Pr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.DIP Dependency Inversion Principle", "5.DIP Dependency Inversion Principle", "{AE39407D-0821-4FD5-A604-2C2F75BF22C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP_Dependency_Inversion_Principle_Correct", "DIP_Dependency_Inversion_Principle_Correct\DIP_Dependency_Inversion_Principle_Correct.csproj", "{8CDA33F6-7012-44BF-8BEE-FDC216266B12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,10 @@ Global
 		{A520A107-6DD8-EE8C-4727-226D628DE6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A520A107-6DD8-EE8C-4727-226D628DE6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A520A107-6DD8-EE8C-4727-226D628DE6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CDA33F6-7012-44BF-8BEE-FDC216266B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CDA33F6-7012-44BF-8BEE-FDC216266B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CDA33F6-7012-44BF-8BEE-FDC216266B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CDA33F6-7012-44BF-8BEE-FDC216266B12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -87,6 +93,7 @@ Global
 		{BD0B42FF-45FF-4BBC-AD03-8F91D28577C4} = {369CB01D-A1A7-72D2-AABC-3F0945D148A2}
 		{03C05F96-86F4-402F-95C1-0E83386FCC0E} = {00F113BC-17C9-4D4C-A0E6-CA66DC260853}
 		{A520A107-6DD8-EE8C-4727-226D628DE6BB} = {AE39407D-0821-4FD5-A604-2C2F75BF22C0}
+		{8CDA33F6-7012-44BF-8BEE-FDC216266B12} = {AE39407D-0821-4FD5-A604-2C2F75BF22C0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {119D3C37-B691-4635-8C40-28543AA39712}

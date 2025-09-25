@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PqDSRx2Oe74=",
+  "dgSpecHash": "7ABZLok8sdA=",
   "success": true,
-  "projectFilePath": "E:\\Patrones de Software\\Respaldo\\SOLIDPrinciples\\ISP_Interface_Segregation_Principle_Correct\\ISP_Interface_Segregation_Principle_Correct.csproj",
+  "projectFilePath": "E:\\Patrones de Software\\SOLIDPrinciples\\ISP_Interface_Segregation_Principle_Correct\\ISP_Interface_Segregation_Principle_Correct.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

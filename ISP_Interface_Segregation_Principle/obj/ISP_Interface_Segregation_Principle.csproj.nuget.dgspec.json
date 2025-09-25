@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Patrones de Software\\Respaldo\\SOLIDPrinciples\\ISP_Interface_Segregation_Principle\\ISP_Interface_Segregation_Principle.csproj": {}
+    "E:\\Patrones de Software\\SOLIDPrinciples\\ISP_Interface_Segregation_Principle\\ISP_Interface_Segregation_Principle.csproj": {}
   },
   "projects": {
-    "E:\\Patrones de Software\\Respaldo\\SOLIDPrinciples\\ISP_Interface_Segregation_Principle\\ISP_Interface_Segregation_Principle.csproj": {
+    "E:\\Patrones de Software\\SOLIDPrinciples\\ISP_Interface_Segregation_Principle\\ISP_Interface_Segregation_Principle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Patrones de Software\\Respaldo\\SOLIDPrinciples\\ISP_Interface_Segregation_Principle\\ISP_Interface_Segregation_Principle.csproj",
+        "projectUniqueName": "E:\\Patrones de Software\\SOLIDPrinciples\\ISP_Interface_Segregation_Principle\\ISP_Interface_Segregation_Principle.csproj",
         "projectName": "ISP_Interface_Segregation_Principle",
-        "projectPath": "E:\\Patrones de Software\\Respaldo\\SOLIDPrinciples\\ISP_Interface_Segregation_Principle\\ISP_Interface_Segregation_Principle.csproj",
+        "projectPath": "E:\\Patrones de Software\\SOLIDPrinciples\\ISP_Interface_Segregation_Principle\\ISP_Interface_Segregation_Principle.csproj",
         "packagesPath": "C:\\Users\\Docente\\.nuget\\packages\\",
-        "outputPath": "E:\\Patrones de Software\\Respaldo\\SOLIDPrinciples\\ISP_Interface_Segregation_Principle\\obj\\",
+        "outputPath": "E:\\Patrones de Software\\SOLIDPrinciples\\ISP_Interface_Segregation_Principle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

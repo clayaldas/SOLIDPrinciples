@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TLgTCJxqCS8=",
+  "dgSpecHash": "gmVAOehTad4=",
   "success": true,
-  "projectFilePath": "E:\\Patrones de Software\\Respaldo\\SOLIDPrinciples\\DIP_Dependency_Inversion_Principle_Incorrect\\DIP_Dependency_Inversion_Principle_Incorrect.csproj",
+  "projectFilePath": "E:\\Patrones de Software\\SOLIDPrinciples\\DIP_Dependency_Inversion_Principle_Incorrect\\DIP_Dependency_Inversion_Principle_Incorrect.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
