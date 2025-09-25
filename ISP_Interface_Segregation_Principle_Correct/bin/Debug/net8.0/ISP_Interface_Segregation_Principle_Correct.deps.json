@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ISP_Interface_Segregation_Principle_Correct/1.0.0": {
+        "runtime": {
+          "ISP_Interface_Segregation_Principle_Correct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ISP_Interface_Segregation_Principle_Correct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

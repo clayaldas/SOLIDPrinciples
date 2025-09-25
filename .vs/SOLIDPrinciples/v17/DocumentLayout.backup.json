@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Repositorios\\Ejercicios_Clases\\Patrones de Software\\SOLIDPrinciples\\",
+  "WorkspaceRootPath": "E:\\Patrones de Software\\Respaldo\\SOLIDPrinciples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9597C776-07EB-41A3-9BB0-4923F7849BB4}|ISP_Interface_Segregation_Principle\\ISP_Interface_Segregation_Principle.csproj|d:\\repositorios\\ejercicios_clases\\patrones de software\\solidprinciples\\isp_interface_segregation_principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9597C776-07EB-41A3-9BB0-4923F7849BB4}|ISP_Interface_Segregation_Principle\\ISP_Interface_Segregation_Principle.csproj|solutionrelative:isp_interface_segregation_principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{944E4293-7418-4AEC-A3AC-E485FE02CB0C}|LSP_Liskov_Substitution_Principle_Incorrect\\LSP_Liskov_Substitution_Principle_Incorrect.csproj|d:\\repositorios\\ejercicios_clases\\patrones de software\\solidprinciples\\lsp_liskov_substitution_principle_incorrect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{944E4293-7418-4AEC-A3AC-E485FE02CB0C}|LSP_Liskov_Substitution_Principle_Incorrect\\LSP_Liskov_Substitution_Principle_Incorrect.csproj|solutionrelative:lsp_liskov_substitution_principle_incorrect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A520A107-6DD8-EE8C-4727-226D628DE6BB}|DIP_Dependency_Inversion_Principle_Incorrect\\DIP_Dependency_Inversion_Principle_Incorrect.csproj|e:\\patrones de software\\respaldo\\solidprinciples\\dip_dependency_inversion_principle_incorrect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A520A107-6DD8-EE8C-4727-226D628DE6BB}|DIP_Dependency_Inversion_Principle_Incorrect\\DIP_Dependency_Inversion_Principle_Incorrect.csproj|solutionrelative:dip_dependency_inversion_principle_incorrect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repositorios\\Ejercicios_Clases\\Patrones de Software\\SOLIDPrinciples\\LSP_Liskov_Substitution_Principle_Incorrect\\Program.cs",
-              "RelativeDocumentMoniker": "LSP_Liskov_Substitution_Principle_Incorrect\\Program.cs",
-              "ToolTip": "D:\\Repositorios\\Ejercicios_Clases\\Patrones de Software\\SOLIDPrinciples\\LSP_Liskov_Substitution_Principle_Incorrect\\Program.cs",
-              "RelativeToolTip": "LSP_Liskov_Substitution_Principle_Incorrect\\Program.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T14:11:47.64Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repositorios\\Ejercicios_Clases\\Patrones de Software\\SOLIDPrinciples\\ISP_Interface_Segregation_Principle\\Program.cs",
-              "RelativeDocumentMoniker": "ISP_Interface_Segregation_Principle\\Program.cs",
-              "ToolTip": "D:\\Repositorios\\Ejercicios_Clases\\Patrones de Software\\SOLIDPrinciples\\ISP_Interface_Segregation_Principle\\Program.cs",
-              "RelativeToolTip": "ISP_Interface_Segregation_Principle\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA5wCkAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\Patrones de Software\\Respaldo\\SOLIDPrinciples\\DIP_Dependency_Inversion_Principle_Incorrect\\Program.cs",
+              "RelativeDocumentMoniker": "DIP_Dependency_Inversion_Principle_Incorrect\\Program.cs",
+              "ToolTip": "E:\\Patrones de Software\\Respaldo\\SOLIDPrinciples\\DIP_Dependency_Inversion_Principle_Incorrect\\Program.cs",
+              "RelativeToolTip": "DIP_Dependency_Inversion_Principle_Incorrect\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T14:09:22.658Z",
+              "WhenOpened": "2025-09-25T16:26:45.52Z",
               "EditorCaption": ""
             }
           ]

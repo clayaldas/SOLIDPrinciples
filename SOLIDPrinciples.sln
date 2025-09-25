@@ -23,6 +23,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.ISP Interface Segregation
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP_Interface_Segregation_Principle", "ISP_Interface_Segregation_Principle\ISP_Interface_Segregation_Principle.csproj", "{9597C776-07EB-41A3-9BB0-4923F7849BB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP_Liskov_Substitution_Principle_Correct", "LSP_Liskov_Substitution_Principle_Correct\LSP_Liskov_Substitution_Principle_Correct.csproj", "{BD0B42FF-45FF-4BBC-AD03-8F91D28577C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP_Interface_Segregation_Principle_Correct", "ISP_Interface_Segregation_Principle_Correct\ISP_Interface_Segregation_Principle_Correct.csproj", "{03C05F96-86F4-402F-95C1-0E83386FCC0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP_Dependency_Inversion_Principle_Incorrect", "DIP_Dependency_Inversion_Principle_Incorrect\DIP_Dependency_Inversion_Principle_Incorrect.csproj", "{A520A107-6DD8-EE8C-4727-226D628DE6BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.DIP Dependency Inversion Principle", "5.DIP Dependency Inversion Principle", "{AE39407D-0821-4FD5-A604-2C2F75BF22C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +61,18 @@ Global
 		{9597C776-07EB-41A3-9BB0-4923F7849BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9597C776-07EB-41A3-9BB0-4923F7849BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9597C776-07EB-41A3-9BB0-4923F7849BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0B42FF-45FF-4BBC-AD03-8F91D28577C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0B42FF-45FF-4BBC-AD03-8F91D28577C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0B42FF-45FF-4BBC-AD03-8F91D28577C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0B42FF-45FF-4BBC-AD03-8F91D28577C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C05F96-86F4-402F-95C1-0E83386FCC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C05F96-86F4-402F-95C1-0E83386FCC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C05F96-86F4-402F-95C1-0E83386FCC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C05F96-86F4-402F-95C1-0E83386FCC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A520A107-6DD8-EE8C-4727-226D628DE6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A520A107-6DD8-EE8C-4727-226D628DE6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A520A107-6DD8-EE8C-4727-226D628DE6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A520A107-6DD8-EE8C-4727-226D628DE6BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +84,9 @@ Global
 		{F8DB29EE-45C9-4A5B-AC37-229AF5C0CFBE} = {AA35757D-02B3-49BD-A48E-B744554B1F3E}
 		{944E4293-7418-4AEC-A3AC-E485FE02CB0C} = {369CB01D-A1A7-72D2-AABC-3F0945D148A2}
 		{9597C776-07EB-41A3-9BB0-4923F7849BB4} = {00F113BC-17C9-4D4C-A0E6-CA66DC260853}
+		{BD0B42FF-45FF-4BBC-AD03-8F91D28577C4} = {369CB01D-A1A7-72D2-AABC-3F0945D148A2}
+		{03C05F96-86F4-402F-95C1-0E83386FCC0E} = {00F113BC-17C9-4D4C-A0E6-CA66DC260853}
+		{A520A107-6DD8-EE8C-4727-226D628DE6BB} = {AE39407D-0821-4FD5-A604-2C2F75BF22C0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {119D3C37-B691-4635-8C40-28543AA39712}

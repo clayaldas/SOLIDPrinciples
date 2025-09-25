@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ISP_Interface_Segregation_Principle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+778cb89d041d95639febd7055ccb06eb77ef76d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5803f7dab98af696528434de89bd60aae814c5c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ISP_Interface_Segregation_Principle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ISP_Interface_Segregation_Principle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
