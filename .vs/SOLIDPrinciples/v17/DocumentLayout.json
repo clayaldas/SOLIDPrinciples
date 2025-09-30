@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "E:\\Patrones de Software\\SOLIDPrinciples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CDA33F6-7012-44BF-8BEE-FDC216266B12}|DIP_Dependency_Inversion_Principle_Correct\\DIP_Dependency_Inversion_Principle_Correct.csproj|e:\\patrones de software\\solidprinciples\\dip_dependency_inversion_principle_correct\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CDA33F6-7012-44BF-8BEE-FDC216266B12}|DIP_Dependency_Inversion_Principle_Correct\\DIP_Dependency_Inversion_Principle_Correct.csproj|solutionrelative:dip_dependency_inversion_principle_correct\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CDA33F6-7012-44BF-8BEE-FDC216266B12}|DIP_Dependency_Inversion_Principle_Correct\\DIP_Dependency_Inversion_Principle_Correct.csproj|e:\\patrones de software\\solidprinciples\\dip_dependency_inversion_principle_correct\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CDA33F6-7012-44BF-8BEE-FDC216266B12}|DIP_Dependency_Inversion_Principle_Correct\\DIP_Dependency_Inversion_Principle_Correct.csproj|solutionrelative:dip_dependency_inversion_principle_correct\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CDA33F6-7012-44BF-8BEE-FDC216266B12}|DIP_Dependency_Inversion_Principle_Correct\\DIP_Dependency_Inversion_Principle_Correct.csproj|e:\\patrones de software\\solidprinciples\\dip_dependency_inversion_principle_correct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CDA33F6-7012-44BF-8BEE-FDC216266B12}|DIP_Dependency_Inversion_Principle_Correct\\DIP_Dependency_Inversion_Principle_Correct.csproj|solutionrelative:dip_dependency_inversion_principle_correct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A520A107-6DD8-EE8C-4727-226D628DE6BB}|DIP_Dependency_Inversion_Principle_Incorrect\\DIP_Dependency_Inversion_Principle_Incorrect.csproj|e:\\patrones de software\\solidprinciples\\dip_dependency_inversion_principle_incorrect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A520A107-6DD8-EE8C-4727-226D628DE6BB}|DIP_Dependency_Inversion_Principle_Incorrect\\DIP_Dependency_Inversion_Principle_Incorrect.csproj|solutionrelative:dip_dependency_inversion_principle_incorrect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CDA33F6-7012-44BF-8BEE-FDC216266B12}|DIP_Dependency_Inversion_Principle_Correct\\DIP_Dependency_Inversion_Principle_Correct.csproj|e:\\patrones de software\\solidprinciples\\dip_dependency_inversion_principle_correct\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CDA33F6-7012-44BF-8BEE-FDC216266B12}|DIP_Dependency_Inversion_Principle_Correct\\DIP_Dependency_Inversion_Principle_Correct.csproj|solutionrelative:dip_dependency_inversion_principle_correct\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CDA33F6-7012-44BF-8BEE-FDC216266B12}|DIP_Dependency_Inversion_Principle_Correct\\DIP_Dependency_Inversion_Principle_Correct.csproj|e:\\patrones de software\\solidprinciples\\dip_dependency_inversion_principle_correct\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CDA33F6-7012-44BF-8BEE-FDC216266B12}|DIP_Dependency_Inversion_Principle_Correct\\DIP_Dependency_Inversion_Principle_Correct.csproj|solutionrelative:dip_dependency_inversion_principle_correct\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{350C55F1-A15B-4BF5-A8D3-2B6AFA91F57C}|SOLID_Complete_Incorrect\\SOLID_Complete_Incorrect.csproj|e:\\patrones de software\\solidprinciples\\solid_complete_incorrect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350C55F1-A15B-4BF5-A8D3-2B6AFA91F57C}|SOLID_Complete_Incorrect\\SOLID_Complete_Incorrect.csproj|solutionrelative:solid_complete_incorrect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SmsService.cs",
-              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\DIP_Dependency_Inversion_Principle_Correct\\SmsService.cs",
-              "RelativeDocumentMoniker": "DIP_Dependency_Inversion_Principle_Correct\\SmsService.cs",
-              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\DIP_Dependency_Inversion_Principle_Correct\\SmsService.cs",
-              "RelativeToolTip": "DIP_Dependency_Inversion_Principle_Correct\\SmsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T17:35:11.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\DIP_Dependency_Inversion_Principle_Correct\\Program.cs",
-              "RelativeDocumentMoniker": "DIP_Dependency_Inversion_Principle_Correct\\Program.cs",
-              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\DIP_Dependency_Inversion_Principle_Correct\\Program.cs",
-              "RelativeToolTip": "DIP_Dependency_Inversion_Principle_Correct\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\SOLID_Complete_Incorrect\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID_Complete_Incorrect\\Program.cs",
+              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\SOLID_Complete_Incorrect\\Program.cs",
+              "RelativeToolTip": "SOLID_Complete_Incorrect\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T17:29:22.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\DIP_Dependency_Inversion_Principle_Incorrect\\Program.cs",
-              "RelativeDocumentMoniker": "DIP_Dependency_Inversion_Principle_Incorrect\\Program.cs",
-              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\DIP_Dependency_Inversion_Principle_Incorrect\\Program.cs",
-              "RelativeToolTip": "DIP_Dependency_Inversion_Principle_Incorrect\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwCMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T17:15:30.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NotificationManager.cs",
-              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\DIP_Dependency_Inversion_Principle_Correct\\NotificationManager.cs",
-              "RelativeDocumentMoniker": "DIP_Dependency_Inversion_Principle_Correct\\NotificationManager.cs",
-              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\DIP_Dependency_Inversion_Principle_Correct\\NotificationManager.cs",
-              "RelativeToolTip": "DIP_Dependency_Inversion_Principle_Correct\\NotificationManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T17:15:06.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\DIP_Dependency_Inversion_Principle_Correct\\EmailService.cs",
-              "RelativeDocumentMoniker": "DIP_Dependency_Inversion_Principle_Correct\\EmailService.cs",
-              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\DIP_Dependency_Inversion_Principle_Correct\\EmailService.cs",
-              "RelativeToolTip": "DIP_Dependency_Inversion_Principle_Correct\\EmailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T17:12:20.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "INotificationService.cs",
-              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\DIP_Dependency_Inversion_Principle_Correct\\INotificationService.cs",
-              "RelativeDocumentMoniker": "DIP_Dependency_Inversion_Principle_Correct\\INotificationService.cs",
-              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\DIP_Dependency_Inversion_Principle_Correct\\INotificationService.cs",
-              "RelativeToolTip": "DIP_Dependency_Inversion_Principle_Correct\\INotificationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T17:10:49.718Z",
+              "WhenOpened": "2025-09-30T15:17:04.272Z",
               "EditorCaption": ""
             }
           ]
