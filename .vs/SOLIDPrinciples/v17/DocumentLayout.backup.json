@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\Patrones de Software\\SOLIDPrinciples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{350C55F1-A15B-4BF5-A8D3-2B6AFA91F57C}|SOLID_Complete_Incorrect\\SOLID_Complete_Incorrect.csproj|e:\\patrones de software\\solidprinciples\\solid_complete_incorrect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{350C55F1-A15B-4BF5-A8D3-2B6AFA91F57C}|SOLID_Complete_Incorrect\\SOLID_Complete_Incorrect.csproj|solutionrelative:solid_complete_incorrect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD90AB19-EC92-440B-B29E-87F022947973}|SOLID_Complete_Correct\\SOLID_Complete_Correct.csproj|e:\\patrones de software\\solidprinciples\\solid_complete_correct\\ifilesave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD90AB19-EC92-440B-B29E-87F022947973}|SOLID_Complete_Correct\\SOLID_Complete_Correct.csproj|solutionrelative:solid_complete_correct\\ifilesave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD90AB19-EC92-440B-B29E-87F022947973}|SOLID_Complete_Correct\\SOLID_Complete_Correct.csproj|e:\\patrones de software\\solidprinciples\\solid_complete_correct\\fileserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD90AB19-EC92-440B-B29E-87F022947973}|SOLID_Complete_Correct\\SOLID_Complete_Correct.csproj|solutionrelative:solid_complete_correct\\fileserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD90AB19-EC92-440B-B29E-87F022947973}|SOLID_Complete_Correct\\SOLID_Complete_Correct.csproj|e:\\patrones de software\\solidprinciples\\solid_complete_correct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD90AB19-EC92-440B-B29E-87F022947973}|SOLID_Complete_Correct\\SOLID_Complete_Correct.csproj|solutionrelative:solid_complete_correct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\SOLID_Complete_Incorrect\\Program.cs",
-              "RelativeDocumentMoniker": "SOLID_Complete_Incorrect\\Program.cs",
-              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\SOLID_Complete_Incorrect\\Program.cs",
-              "RelativeToolTip": "SOLID_Complete_Incorrect\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Title": "IFileSave.cs",
+              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\SOLID_Complete_Correct\\IFileSave.cs",
+              "RelativeDocumentMoniker": "SOLID_Complete_Correct\\IFileSave.cs",
+              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\SOLID_Complete_Correct\\IFileSave.cs",
+              "RelativeToolTip": "SOLID_Complete_Correct\\IFileSave.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T15:17:04.272Z",
+              "WhenOpened": "2025-09-30T18:05:33.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileServer.cs",
+              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\SOLID_Complete_Correct\\FileServer.cs",
+              "RelativeDocumentMoniker": "SOLID_Complete_Correct\\FileServer.cs",
+              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\SOLID_Complete_Correct\\FileServer.cs",
+              "RelativeToolTip": "SOLID_Complete_Correct\\FileServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:05:31.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Patrones de Software\\SOLIDPrinciples\\SOLID_Complete_Correct\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID_Complete_Correct\\Program.cs",
+              "ToolTip": "E:\\Patrones de Software\\SOLIDPrinciples\\SOLID_Complete_Correct\\Program.cs",
+              "RelativeToolTip": "SOLID_Complete_Correct\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:47:24.002Z",
               "EditorCaption": ""
             }
           ]

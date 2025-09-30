@@ -1,0 +1,15 @@
+E:\Patrones de Software\SOLIDPrinciples\SOLID_Complete_Correct\obj\Debug\net8.0\SOLID_Complete_Correct.GeneratedMSBuildEditorConfig.editorconfig
+E:\Patrones de Software\SOLIDPrinciples\SOLID_Complete_Correct\obj\Debug\net8.0\SOLID_Complete_Correct.AssemblyInfoInputs.cache
+E:\Patrones de Software\SOLIDPrinciples\SOLID_Complete_Correct\obj\Debug\net8.0\SOLID_Complete_Correct.AssemblyInfo.cs
+E:\Patrones de Software\SOLIDPrinciples\SOLID_Complete_Correct\obj\Debug\net8.0\SOLID_Complete_Correct.csproj.CoreCompileInputs.cache
+E:\Patrones de Software\SOLIDPrinciples\SOLID_Complete_Correct\obj\Debug\net8.0\SOLID_Complete_Correct.sourcelink.json
+E:\Patrones de Software\SOLIDPrinciples\SOLID_Complete_Correct\bin\Debug\net8.0\SOLID_Complete_Correct.exe
+E:\Patrones de Software\SOLIDPrinciples\SOLID_Complete_Correct\bin\Debug\net8.0\SOLID_Complete_Correct.deps.json
+E:\Patrones de Software\SOLIDPrinciples\SOLID_Complete_Correct\bin\Debug\net8.0\SOLID_Complete_Correct.runtimeconfig.json
+E:\Patrones de Software\SOLIDPrinciples\SOLID_Complete_Correct\bin\Debug\net8.0\SOLID_Complete_Correct.dll
+E:\Patrones de Software\SOLIDPrinciples\SOLID_Complete_Correct\bin\Debug\net8.0\SOLID_Complete_Correct.pdb
+E:\Patrones de Software\SOLIDPrinciples\SOLID_Complete_Correct\obj\Debug\net8.0\SOLID_Complete_Correct.dll
+E:\Patrones de Software\SOLIDPrinciples\SOLID_Complete_Correct\obj\Debug\net8.0\refint\SOLID_Complete_Correct.dll
+E:\Patrones de Software\SOLIDPrinciples\SOLID_Complete_Correct\obj\Debug\net8.0\SOLID_Complete_Correct.pdb
+E:\Patrones de Software\SOLIDPrinciples\SOLID_Complete_Correct\obj\Debug\net8.0\SOLID_Complete_Correct.genruntimeconfig.cache
+E:\Patrones de Software\SOLIDPrinciples\SOLID_Complete_Correct\obj\Debug\net8.0\ref\SOLID_Complete_Correct.dll
